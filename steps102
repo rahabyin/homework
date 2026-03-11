@@ -1,0 +1,12 @@
+create folder
+git init
+git add rahab
+git commit -m "initial commit"
+git status
+git add steps102
+git commit -m "initial commit"
+git status
+git branch -m main
+git branch
+git remote add origin <ssh link>
+git push origin main
